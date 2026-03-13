@@ -1,8 +1,8 @@
 # CLIP Implementation from Scratch (Zero-Shot Image Classifier)
 
-An implementation of **CLIP (Contrastive Language-Image Pre-Training), using **ResNet-50** as the image encoder and **DistilBERT** as the text encoder.
+An implementation of **CLIP (Contrastive Language-Image Pre-Training)**, using **ResNet-50** as the image encoder and **DistilBERT** as the text encoder.
 
-<image here>
+![CLIP Diagrams](./docs/images/CLIP_Diags.png)
 
 ---
 
@@ -48,7 +48,11 @@ The model exhibits zero-shot capabilities, allowing to classify images into cate
 
 ### Zero-Shot Classification
 
+!["Match 1"](./docs/images/match/match_1.png)
+
+!["Match 2"](./docs/images/match/match_2.png)
+
 ### Text-to-Image Retrieval
 
-!["A Photo of a Fruit" Retrieval](./docs/images/retrieval_1.png)
+!["A Photo of a Fruit" Retrieval](./docs/images/retrieval//retrieval_1.png)
 
