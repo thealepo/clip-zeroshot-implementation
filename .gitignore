@@ -1,0 +1,12 @@
+# Datasets and checkpoints
+MS-COCO-DATASET/
+*.zip
+*.pt
+*.pth
+checkpoints/
+data/
+
+# Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
