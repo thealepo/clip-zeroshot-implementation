@@ -6,4 +6,5 @@ transformers
 datasets
 tqdm
 scikit-learn
+seaborn
 Pillow
