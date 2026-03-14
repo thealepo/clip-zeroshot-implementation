@@ -40,6 +40,8 @@ Following the CLIP paper:
 - **Projection Head:** Linear(embed_dim , 512)
 - **Temperature:** A learnable parameter to scale the logits before softmax
 
+![CLIP Architectural Diagram](./docs/images/CLIP_ARCH.png)
+
 ---
 
 ## Results
