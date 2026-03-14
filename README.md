@@ -28,7 +28,7 @@ As training progresses, the "Image" dots (in Blue) and the "Text" dots (in Red) 
 
 The diagonal represents the "correct" image-text pairs. Our goal is to have this matrix represent an identity matrix as much as possible!
 
-![Similarity Matrix](./docs/gifs/sim_matrix_evolution.gif)
+![Similarity Matrix](./docs/images/matrix_05.png)
 
 ---
 
