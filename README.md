@@ -1,6 +1,6 @@
 # CLIP Implementation from Scratch (Zero-Shot Image Classifier)
 
-An implementation of **CLIP (Contrastive Language-Image Pre-Training)**, using **ResNet-50** as the image encoder and **DistilBERT** as the text encoder. Visit the Google Colab notebook ***[here](https://colab.research.google.com/drive/1Svd9Ue9LPoievhxGJjQ9_jXdTvz-Nins?usp=sharing).***
+An implementation of **CLIP (Contrastive Language-Image Pre-Training)**, using **ResNet-50** as the image encoder and **DistilBERT** as the text encoder. Visit the ***[Google Colab Notebook](https://colab.research.google.com/drive/1Svd9Ue9LPoievhxGJjQ9_jXdTvz-Nins?usp=sharing).***
 
 ![CLIP Diagrams](./docs/images/CLIP_Diags.png)
 
@@ -60,6 +60,6 @@ The model exhibits zero-shot capabilities, allowing to classify images into cate
 
 ---
 
-This implementation retained *90%* of the Recall@5 performance in Text-to-Image retrieval compared to the OpenAI.
+This implementation retained *90%* of the Recall@5 performance in Text-to-Image retrieval compared to the OpenAI (on MS-COCO).
 
 ![Implementation vs. OpenAI on MSCOCO](./docs/images/implementation-vs-openai.png)
