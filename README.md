@@ -8,7 +8,7 @@ An implementation of **CLIP (Contrastive Language-Image Pre-Training)**, using *
 
 ## Overview
 
-This repository implements the core mechanismS of the OPENAI paper: *["Learning Transferable Visual Models From Natural Language Supervision"](https://arxiv.org/pdf/2103.00020)*.
+This repository implements the core mechanisms of the OPENAI paper: *["Learning Transferable Visual Models From Natural Language Supervision"](https://arxiv.org/pdf/2103.00020)*.
 
 By training on the **MS-COCO dataset**, this model learns to project images and their corresponding captions into a shared 512-dimensional embedding space. The closer the image and text are in semantic meaning, the higher their cosine similarity (or normalized dot-product).
 
